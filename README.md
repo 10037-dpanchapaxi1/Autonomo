@@ -1,2 +1,0 @@
-# autonomo
-página principal
